@@ -76,10 +76,10 @@ Install a Java Development Kit (JDK) and make sure `java` and `javac` are availa
 
 ### Run the Application
 
-1. Clone the repository (replace the placeholder with your GitHub repository URL):
+1. Clone the repository :
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone <https://github.com/gaurikhairnar-live/CILManagementSystem>
    cd CILManagementSystem
    ```
 
